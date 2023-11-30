@@ -1,0 +1,3 @@
+Git Bash is a command-line interface (CLI) that provides a Unix-like shell on Windows. 
+It combines the power of Git—the version control system, with the command-line capabilities of Bash, which is a popular Unix shell. 
+This tool allows Windows users to interact with Git and perform version control tasks using familiar Unix commands.
